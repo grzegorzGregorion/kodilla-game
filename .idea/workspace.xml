@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/com/kodilla/RoyalGameOfUr.java" line="53" mnemonic="8" />
-    <bookmark url="file://$PROJECT_DIR$/src/com/kodilla/RoyalGameOfUr.java" line="63" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="e26931a1-e184-48bb-b3cd-29cf1b1aa79e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kodilla/RoyalGameOfUr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kodilla/logic/RoyalGameOfUr.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kodilla-game-RGoU/com/kodilla/Blackjack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/kodilla/Blackjack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-game-RGoU.iml" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-game-RGoU.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kodilla-game-RGoU/com/kodilla/RoyalGameOfUr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kodilla-game-RGoU/com/kodilla/White_piece.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kodilla-game-RGoU/com/kodilla/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kodilla-game-RGoU/com/kodilla/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kodilla/RoyalGameOfUr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kodilla/White_piece.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kodilla/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kodilla/style.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,11 +25,39 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/kodilla/RoyalGameOfUr.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/playBoardElements/board.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/kodilla/logic/Pawn.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="212">
-              <caret line="106" lean-forward="true" selection-start-line="106" selection-end-line="106" />
+            <state relative-caret-position="51">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/kodilla/logic/RoyalGameOfUr.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="290">
+              <caret line="250" column="5" lean-forward="true" selection-start-line="250" selection-start-column="5" selection-end-line="250" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#13402#13403#0" expanded="true" />
+                <element signature="e#13459#13460#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/com/kodilla/diceThrowTestSuite.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -38,23 +66,41 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/background.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/playBoardElements/board.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/kodilla/White_piece.java">
+        <entry file="file://$PROJECT_DIR$/src/com/kodilla/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="340">
+              <caret line="20" selection-start-line="20" selection-end-line="20" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/kodilla/logic/Figure.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/kodilla/logic/Game.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1139">
+              <caret line="85" column="20" selection-start-line="85" selection-start-column="20" selection-end-line="85" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#3604#3605#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/kodilla/logic/None.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -71,6 +117,9 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>white</find>
+      <find>dec</find>
+      <find>decor</find>
+      <find>transp</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -82,24 +131,39 @@
         <option value="$PROJECT_DIR$/src/com/kodilla/HelloWorld.java" />
         <option value="$PROJECT_DIR$/src/com/kodilla/Blackjack.java" />
         <option value="$PROJECT_DIR$/src/com/kodilla/Piece.java" />
+        <option value="$PROJECT_DIR$/src/com/kodilla/JavaFxExample.java" />
+        <option value="$PROJECT_DIR$/src/com/kodilla/JavafxSample" />
         <option value="$PROJECT_DIR$/src/com/kodilla/White_piece.java" />
+        <option value="$PROJECT_DIR$/src/com/kodilla/WhitePiece.java" />
+        <option value="$PROJECT_DIR$/src/com/kodilla/style.css" />
+        <option value="$PROJECT_DIR$/src/com/kodilla/logic/Figure.java" />
+        <option value="$PROJECT_DIR$/src/com/kodilla/logic/Pawn.java" />
+        <option value="$PROJECT_DIR$/src/com/kodilla/logic/None.java" />
+        <option value="$PROJECT_DIR$/src/com/kodilla/JavafxSample.java" />
+        <option value="$PROJECT_DIR$/test/com/kodilla/diceThrowTestSuite.java" />
         <option value="$PROJECT_DIR$/src/com/kodilla/RoyalGameOfUr.java" />
+        <option value="$PROJECT_DIR$/src/com/kodilla/logic/diceThrowSum.java" />
+        <option value="$PROJECT_DIR$/src/com/kodilla/logic/Gfx.java" />
+        <option value="$PROJECT_DIR$/src/com/kodilla/logic/RoyalGameOfUr.java" />
+        <option value="$PROJECT_DIR$/src/com/kodilla/logic/Game.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="521" />
-    <option name="y" value="11" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
     <option name="width" value="1346" />
-    <option name="height" value="673" />
+    <option name="height" value="688" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -129,17 +193,44 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="kodilla" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="kodilla-game-RGoU" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kodilla-game-RGoU" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="kodilla" type="462c0819:PsiDirectoryNode" />
+              <item name="logic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kodilla-game-RGoU" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kodilla-game-RGoU" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kodilla-game-RGoU" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kodilla-game-RGoU" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="kodilla" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kodilla-game-RGoU" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -155,6 +246,9 @@
       <recent name="C:\Users\48607\IdeaProjects\kodilla-game-RGoU\resources\cards" />
       <recent name="C:\Users\48607\IdeaProjects\kodilla-game-RGoU" />
     </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.kodilla.logic" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -169,19 +263,25 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.RoyalGameOfUr">
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HelloWorld" />
+    <configuration name="JavaFxExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kodilla.JavaFxExample" />
       <module name="kodilla-game-RGoU" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kodilla.logic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Piece" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kodilla.Piece" />
+    <configuration name="JavafxSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kodilla.JavafxSample" />
       <module name="kodilla-game-RGoU" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kodilla.*" />
+          <option name="PATTERN" value="com.kodilla.logic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -190,11 +290,11 @@
       </method>
     </configuration>
     <configuration name="RoyalGameOfUr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kodilla.RoyalGameOfUr" />
+      <option name="MAIN_CLASS_NAME" value="com.kodilla.logic.RoyalGameOfUr" />
       <module name="kodilla-game-RGoU" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kodilla.*" />
+          <option name="PATTERN" value="com.kodilla.logic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -202,11 +302,44 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="diceThrowTestSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kodilla-game-RGoU" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kodilla.logic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kodilla" />
+      <option name="MAIN_CLASS_NAME" value="com.kodilla.diceThrowTestSuite" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="diceThrowTestSuite.testDiceThrow" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kodilla-game-RGoU" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kodilla.logic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kodilla" />
+      <option name="MAIN_CLASS_NAME" value="com.kodilla.diceThrowTestSuite" />
+      <option name="METHOD_NAME" value="testDiceThrow" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.RoyalGameOfUr" />
-        <item itemvalue="Application.Piece" />
-        <item itemvalue="Application.HelloWorld" />
+        <item itemvalue="JUnit.diceThrowTestSuite" />
+        <item itemvalue="JUnit.diceThrowTestSuite.testDiceThrow" />
+        <item itemvalue="Application.JavafxSample" />
+        <item itemvalue="Application.JavaFxExample" />
       </list>
     </recent_temporary>
   </component>
@@ -224,18 +357,76 @@
       <workItem from="1564814679119" duration="9514000" />
       <workItem from="1564860201771" duration="5367000" />
       <workItem from="1564870114110" duration="891000" />
-      <workItem from="1564911913676" duration="2895000" />
+      <workItem from="1564911913676" duration="7787000" />
+      <workItem from="1565369180085" duration="2702000" />
+      <workItem from="1565371929460" duration="2322000" />
+      <workItem from="1565770441912" duration="3990000" />
+      <workItem from="1566690741787" duration="2631000" />
+      <workItem from="1566738164373" duration="1807000" />
+      <workItem from="1567104431646" duration="3676000" />
+      <workItem from="1582835663779" duration="701000" />
+      <workItem from="1582925082296" duration="124000" />
+      <workItem from="1584712238817" duration="599000" />
+      <workItem from="1584765638538" duration="7874000" />
+      <workItem from="1584834279133" duration="586000" />
+      <workItem from="1585153593842" duration="708000" />
+      <workItem from="1585474127223" duration="1801000" />
+      <workItem from="1585828269791" duration="2611000" />
+      <workItem from="1585922830100" duration="3636000" />
+      <workItem from="1586267224496" duration="1208000" />
+      <workItem from="1586434190803" duration="11154000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="diceThrowTestSuite_testDiceThrow - 2020.03.21 at 08h 55m 47s.xml">
+      <configuration name="diceThrowTestSuite.testDiceThrow" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="diceThrowTestSuite - 2020.03.21 at 08h 55m 52s.xml">
+      <configuration name="diceThrowTestSuite" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="diceThrowTestSuite_testDiceThrow - 2020.03.21 at 08h 56m 05s.xml">
+      <configuration name="diceThrowTestSuite.testDiceThrow" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="diceThrowTestSuite_testDiceThrow - 2020.03.21 at 08h 56m 11s.xml">
+      <configuration name="diceThrowTestSuite.testDiceThrow" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="diceThrowTestSuite_testDiceThrow - 2020.03.21 at 08h 57m 03s.xml">
+      <configuration name="diceThrowTestSuite.testDiceThrow" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="diceThrowTestSuite - 2020.03.21 at 09h 18m 05s.xml">
+      <configuration name="diceThrowTestSuite" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="diceThrowTestSuite_testDiceThrow - 2020.03.21 at 09h 18m 10s.xml">
+      <configuration name="diceThrowTestSuite.testDiceThrow" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="diceThrowTestSuite - 2020.04.09 at 19h 25m 17s.xml">
+      <configuration name="diceThrowTestSuite" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="diceThrowTestSuite - 2020.04.09 at 19h 25m 29s.xml">
+      <configuration name="diceThrowTestSuite" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="diceThrowTestSuite - 2020.04.09 at 19h 28m 22s.xml">
+      <configuration name="diceThrowTestSuite" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21916000" />
+    <option name="totallyTimeSpent" value="74938000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17700455" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21558245" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -244,17 +435,17 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49092284" visible="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49848714" weight="0.3289689" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49924356" weight="0.3289689" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3289689" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.3289689" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4977307" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50907713" side_tool="true" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49546143" weight="0.3289689" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24962178" />
@@ -284,28 +475,137 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/kodilla/Piece.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/kodilla/White_piece.java">
+    <entry file="file://$PROJECT_DIR$/src/com/kodilla/JavafxSample" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_212/javafx-src.zip!/javafx/stage/Stage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="483" column="45" selection-start-line="483" selection-start-column="45" selection-end-line="483" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_212/javafx-src.zip!/javafx/scene/shape/Line.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="477">
+          <caret line="72" column="11" selection-start-line="72" selection-start-column="11" selection-end-line="72" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kodilla/WhitePiece.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_212/javafx-src.zip!/javafx/scene/shape/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_212/javafx-src.zip!/javafx/scene/image/Image.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1105">
+          <caret line="121" column="13" selection-start-line="121" selection-start-column="13" selection-end-line="121" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/playBoardElements/white_piece.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kodilla/JavafxSample.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/kodilla/GameEngine.java" />
+    <entry file="file://$PROJECT_DIR$/resources/background.png" />
+    <entry file="file://$PROJECT_DIR$/resources/playBoardElements/black_piece.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/playBoardElements/board.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kodilla/logic/Pawn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kodilla/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" selection-start-line="20" selection-end-line="20" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kodilla/logic/Figure.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kodilla/logic/None.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_212/javafx-src.zip!/com/sun/glass/ui/win/WinApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="176" selection-start-line="176" selection-end-line="176" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_212/jre/lib/rt.jar!/sun/reflect/NativeMethodAccessorImpl.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/com/kodilla/diceThrowTestSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/background.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/playBoardElements/board.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/kodilla/RoyalGameOfUr.java">
+    <entry file="file://$PROJECT_DIR$/src/com/kodilla/logic/diceThrowSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="106" lean-forward="true" selection-start-line="106" selection-end-line="106" />
+        <state relative-caret-position="51">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kodilla/logic/Gfx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+          <folding>
+            <element signature="e#101#102#0" expanded="true" />
+            <element signature="e#132#133#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kodilla/logic/RoyalGameOfUr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="250" column="5" lean-forward="true" selection-start-line="250" selection-start-column="5" selection-end-line="250" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#13402#13403#0" expanded="true" />
+            <element signature="e#13459#13460#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kodilla/logic/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1139">
+          <caret line="85" column="20" selection-start-line="85" selection-start-column="20" selection-end-line="85" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3604#3605#0" expanded="true" />
           </folding>
         </state>
       </provider>
